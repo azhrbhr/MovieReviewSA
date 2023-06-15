@@ -16,50 +16,6 @@ To get started with the Flask Movie Review Sentiment Analysis app, follow these 
 1. Clone the repository:
 git clone https://github.com/your-username/your-repository.git
 
-
-2. Navigate to the project directory:
-cd flask-movie-review-sentiment-analysis
-
-
-3. Install the required dependencies:
-### Usage
-
-1. Run the Flask application:
-flask run
-
-
-2. Open your web browser and go to `http://localhost:5000` to access the application.
-
-3. Enter a movie review in the provided form and submit it.
-
-4. The application will analyze the sentiment of the review and display the predicted sentiment (positive or negative).
-
-### Training the Model
-
-To train the sentiment analysis model, you can use the following endpoint:
-
-Certainly! Here's an updated version of the README.md file that includes information about the /train route and the data.csv file:
-
-csharp
-Copy code
-# Flask Movie Review Sentiment Analysis
-
-This Flask application performs sentiment analysis on movie reviews using a machine learning model. It predicts whether a given review is positive or negative based on its sentiment.
-
-## Getting Started
-
-To get started with the Flask Movie Review Sentiment Analysis app, follow these instructions:
-
-### Prerequisites
-
-- Python 3.x
-- pip
-
-### Installation
-
-1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
-
 css
 Copy code
 
