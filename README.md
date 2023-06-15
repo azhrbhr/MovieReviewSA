@@ -14,7 +14,7 @@ To get started with the Flask Movie Review Sentiment Analysis app, follow these 
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/azhrbhr/MovieReviewSA.git
 
 css
 Copy code
