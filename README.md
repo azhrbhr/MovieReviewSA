@@ -20,14 +20,22 @@ git clone https://github.com/azhrbhr/MovieReviewSA.git
 2. Navigate to the project directory:
 ```bash
 cd MovieReviewSA
+```
+
 
 3. Install the required dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
 ### Usage
 
 1. Run the Flask application:
+
+```bash
 flask run
+```
 
 2. Open your web browser and go to `http://localhost:5000` to access the application.
 
@@ -58,9 +66,6 @@ http://localhost:5000/train
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
