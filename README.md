@@ -1,4 +1,4 @@
-# Flask Movie Review Sentiment Analysis
+# Movie Review Sentiment Analysis
 
 This Flask application performs sentiment analysis on movie reviews using a machine learning model. It predicts whether a given review is positive or negative based on its sentiment.
 
